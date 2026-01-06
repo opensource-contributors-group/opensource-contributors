@@ -1,2 +1,2 @@
-# opensource-contributors
-Let's contribute on opensource, 1PR per month!
+# 오픈소스 기여모임
+- 상세 정보 & 문의: https://litt.ly/opensource
